@@ -2,7 +2,7 @@
 name: glsl_analyzer
 description: |
   Language server for GLSL (autocomplete, goto-definition, formatter, and more)
-homepage: https://github.com/nolanderc/glsl_analyzer
+homepage: https://github.com/aranasaurus/glsl_analyzer
 licenses:
   - GPL-3.0
 languages:
@@ -11,7 +11,7 @@ categories:
   - LSP
 
 source:
-  id: pkg:github/nolanderc/glsl_analyzer@v1.5.1
+  id: pkg:github/aranasaurus/glsl_analyzer@v1.5.2
   asset:
     - target: darwin_x64
       file: x86_64-macos.zip
